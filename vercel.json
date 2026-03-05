@@ -1,0 +1,106 @@
+{
+  "buildCommand": "echo 'Building'",
+  "outputDirectory": "."
+}
+```
+
+**Step 5:** Scroll down and click:
+```
+"Commit changes"
+```
+
+**Done!** ✅
+
+---
+
+## ✅ STEP 4: Create a README File
+
+**Step 1:** Click:
+```
+"Add file" → "Create new file"
+```
+
+**Step 2:** Type this filename:
+```
+README.md
+```
+
+**Step 3:** Click in the big white box
+
+**Step 4:** Copy and paste this:
+```
+# Ledger Pro - Retail POS System
+
+A simple point-of-sale system for retail stores.
+
+## Features
+- Employee login
+- Sales transactions
+- Real-time inventory tracking
+- Daily dashboard and reports
+- Shift management
+
+## How to Use
+
+1. Login with your employee credentials
+2. Add products to cart
+3. Process sales
+4. View inventory updates
+5. Check dashboard
+
+## Demo Credentials
+
+Username: cashier1
+Password: 1234
+
+## Support
+
+For help or questions, contact us.
+```
+
+**Step 5:** Scroll down and click:
+```
+"Commit changes"
+```
+
+**Done!** ✅
+
+---
+
+## ✅ VERIFY YOUR WORK
+
+Let's make sure everything is uploaded correctly:
+
+**Step 1:** Go to your GitHub repository (should still be open in browser)
+
+**Step 2:** You should see this in the folder view:
+```
+ledger-pro-app/
+├── frontend.jsx
+├── vercel.json
+└── README.md
+```
+
+**Step 3:** If you see all three files, you're perfect! ✅
+
+---
+
+## 🎉 YOU'VE COMPLETED DAY 2!
+
+**You now have:**
+- ✅ A GitHub repository
+- ✅ Your frontend code uploaded
+- ✅ Configuration files ready
+- ✅ Documentation
+
+**Everything is backed up safely on GitHub.**
+
+---
+
+## 💾 SAVE THIS:
+
+Copy this and save in your text file:
+```
+GitHub Repository Information:
+Repository Name: ledger-pro-app
+Repository URL: https://github.com/[your-username]/ledger-pro-app
